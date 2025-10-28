@@ -1,1 +1,1 @@
-version 1 del segundo archivo
+version 2 del segundo archivo
